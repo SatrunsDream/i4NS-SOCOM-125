@@ -13,7 +13,7 @@ Our goal is to develop a portable, efficient, and durable blood storage solution
 
 This repository will document our research, designs, and developments as we work toward creating a solution that could revolutionize battlefield medicine.
 
-## Background Information
+# Background Information
 
 ## Blood Storage Requirements
 Blood preservation is essential to maintain its viability for transfusions. After being drawn, blood can be safely stored for up to 35 days if kept below 10°C. At higher temperatures, bacteria may proliferate, contaminating the blood and rendering it unusable. When blood is transported, it must remain between 6°C and 10°C for up to 4 hours, but must then be returned to storage below 6°C to extend its usability. Theoretically, this temperature-controlled cycling can repeat without affecting viability, although extended and repeated transport remains challenging.
