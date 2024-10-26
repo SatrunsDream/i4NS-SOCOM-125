@@ -32,14 +32,14 @@ Each component has distinct storage needs, but RBCs, the main element in transfu
 
 To maintain blood quality during storage, various biomarkers are monitored to assess cell integrity, metabolic stability, and potential degradation. Key biomarkers include:
 
-- **Red Blood Cell (RBC) Integrity**
-  - **Kynurenine**: Used to monitor RBC preservation, assessing cell stability over time.
+ **Red Blood Cell (RBC) Integrity**
+   **Kynurenine**: Used to monitor RBC preservation, assessing cell stability over time.
 
-- **Frozen/Thawed Blood Quality**
-  - **Gamma-Glutamyl Transferase (GGT)** and **Lactate Dehydrogenase (LDH)**: Indicators of cellular breakdown, especially for blood that has been frozen and thawed.
+ **Frozen/Thawed Blood Quality**
+   **Gamma-Glutamyl Transferase (GGT)** and **Lactate Dehydrogenase (LDH)**: Indicators of cellular breakdown, especially for blood that has been frozen and thawed.
 
-- **Room Temperature Blood Stability (Up to 48 Hours)**
-  - **Interleukin-6 (IL-6)** and **C-Reactive Protein (CRP)**: Useful for assessing inflammation and degradation when blood is stored at room temperature for short durations.
+ **Room Temperature Blood Stability (Up to 48 Hours)**
+   **Interleukin-6 (IL-6)** and **C-Reactive Protein (CRP)**: Useful for assessing inflammation and degradation when blood is stored at room temperature for short durations.
 
 These biomarkers, tailored to specific storage and experimental needs, help determine blood viability for transfusions and research applications.
 
