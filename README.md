@@ -47,7 +47,7 @@ These biomarkers, tailored to specific storage and experimental needs, help dete
 
 Blood type compatibility is a major consideration for safe transfusions. The presence of antigens on RBCs determines blood type, with O- blood being a universal donor and AB blood being a universal recipient. However, limited availability of O- blood can make transfusions challenging, especially in remote or field operations.
 
-| Blood Type | Description                |
+| **Blood Type** | **Description**                |
 |------------|----------------------------|
 | A+         | Type A with Rh positive    |
 | B+         | Type B with Rh positive    |
