@@ -61,3 +61,7 @@ Blood type compatibility is a major consideration for safe transfusions. The pre
 # Effects of storage temperature and time on metabolite profiles
 
 We will first analyze the data from [this study](https://www.sciencedirect.com/science/article/pii/S0048969723080130#ec0005) evaluates capillary blood collection methods for exposome research, comparing dried blood microsamplers (DBM), dried blood spots (DBS), and plasma under various storage conditions. Blood samples were collected from an adult and stored at 4 °C, -20 °C, and -80 °C for up to six months. Using liquid chromatography-high resolution mass spectrometry (LC-HRMS), the stability of metabolites in each method was analyzed. Results showed that at -80 °C, metabolite profiles in DBS, DBM, and plasma remained stable, while DBM and DBS were also stable at -20 °C, unlike plasma. At 4 °C, DBM preserved lipid classes better than DBS or plasma. This research provides guidance on sample storage protocols, especially in non-clinical settings, and supports DBM and DBS as practical alternatives to plasma for reliable metabolite analysis across varying temperatures.
+
+## Exploring Data
+
+In this step, both univariate and bivariate analyses to understand the distribution and relationships of our data, as well as examine interesting aggregates
